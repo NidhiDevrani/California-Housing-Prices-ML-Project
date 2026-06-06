@@ -1,5 +1,13 @@
 # California Housing Price Prediction
 
+![Dataset-Cover](dataset-cover.jpg)
+
+## Source Links
+
+Google Colab Link : https://colab.research.google.com/drive/1Sk0trKyGSBe1-ek4mV1DKtpzsxVUmouY#scrollTo=Oe9yLwnysTU0
+
+Kaggle dataset : https://www.kaggle.com/datasets/camnugent/california-housing-prices/code
+
 ## Project Overview
 
 This project focuses on predicting California housing prices using machine learning techniques on the California Housing Prices dataset from Kaggle.
